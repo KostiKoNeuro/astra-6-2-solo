@@ -1,0 +1,54 @@
+PASS  Link recognition, including a bare www address
+PASS  Integer, signed, grouped, decimal, exponent and hexadecimal numbers
+PASS  Python, JavaScript, JSON, SQL and markup recognition
+PASS  Long-text threshold and code precedence
+PASS  Ordinary short text and unsupported content are quiet
+PASS  Patrol follows the work area in physical monitor coordinates
+PASS  Walker turns and mirrors at the right edge
+PASS  Walker turns at the left edge on a negative-coordinate monitor
+PASS  Pet follows a relocated taskbar
+PASS  Holding still before release produces a drop
+PASS  Latest copy during a toss is performed after landing
+PASS  Notification-area icon accepted by the Windows shell
+PASS  Windows clipboard-format listener registered
+PASS  Pet HWND has topmost, layered, tool-window and no-activate styles
+PASS  Launch and native mouse activation preserve foreground focus
+PASS  Windows routes the transparent sprite margin to the underlying HWND
+PASS  Underlying fixture receives the adjacent click
+PASS  Even painted speech-bubble pixels are click-through
+PASS  An opaque body pixel receives pet input
+PASS  Pre-launch clipboard revision is ignored
+PASS  Direct grab enters the lifted pose and captures the pointer
+PASS  Grabbed pet follows the test pointer
+PASS  Release transfers measured hand velocity and releases capture
+PASS  Upward toss rises before falling
+PASS  Gravity, damped bounce, landing and resumed taskbar walk
+PASS  Still awake at 59,999 ms of global inactivity
+PASS  Automatic sleep at 60,000 ms of global inactivity
+PASS  Next desktop input wakes an automatic nap
+PASS  Tray sleep command latches through unrelated input
+PASS  Tray wake command
+PASS  Tray feeding shows the biscuit pose
+PASS  Feeding completes and patrol resumes
+PASS  Clipboard update produces scouting a link with its own line and pose
+PASS  Clipboard update produces counting toes with its own line and pose
+PASS  Clipboard update produces bug hunting with its own line and pose
+PASS  Clipboard update produces deep in a story with its own line and pose
+PASS  Clipboard contention leaves the current reaction intact
+PASS  Clipboard retry succeeds after the writer releases it
+PASS  Repeated notifications for one clipboard revision are ignored
+PASS  Field guide opens from the tray
+PASS  Field-guide sample button Link
+PASS  Field-guide sample button Number
+PASS  Field-guide sample button Code
+PASS  Field-guide sample button Story
+PASS  Field-guide biscuit button
+PASS  Field-guide sleep button
+PASS  Field-guide wake button
+PASS  Drag, toss, reactions, tray and open field guide preserve foreground focus
+PASS  Field guide close returns to the desktop pet
+PASS  Right-click on Pip opens the same care menu
+PASS  Click outside dismisses the care menu
+PASS  Tray exit ends the application context
+PASS  Exit destroys the pet HWND
+All checks passed.

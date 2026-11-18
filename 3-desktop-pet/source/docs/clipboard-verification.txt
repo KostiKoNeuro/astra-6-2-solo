@@ -1,0 +1,13 @@
+PASS  Real-time app runs on a separate, undisplayed Windows desktop
+PASS  Native animation timer starts without reading existing text
+PASS  Posted WM_CLIPBOARDUPDATE and native UTF-16 block produce scouting a link
+PASS  Posted WM_CLIPBOARDUPDATE and native UTF-16 block produce counting toes
+PASS  Posted WM_CLIPBOARDUPDATE and native UTF-16 block produce bug hunting
+PASS  Posted WM_CLIPBOARDUPDATE and native UTF-16 block produce deep in a story
+PASS  Busy fixture retries and the reader stops at the UTF-16 terminator
+PASS  Absent text handle leaves Pip's current reaction alone
+PASS  Large native text allocation produces the reading pose
+PASS  Live timer auto-nap after 60036 ms of controlled inactivity
+PASS  Next input wakes Pip in the real message loop
+PASS  Tray exit returns from Application.Run and disposes the companion
+All real-time fixture checks passed.
